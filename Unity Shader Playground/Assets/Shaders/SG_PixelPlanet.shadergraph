@@ -2112,8 +2112,8 @@
     "m_ObjectId": "2e888bc9674d4c2583db84feb6544824",
     "m_Title": "Planet rotation: using a time node and an offset node, plugged into the noise texture",
     "m_Position": {
-        "x": -2811.2001953125,
-        "y": 4.800052642822266
+        "x": -2811.200439453125,
+        "y": 4.79998779296875
     }
 }
 
@@ -3132,7 +3132,7 @@
     "m_Title": " Applying the dither as color mask and addig a fresnel",
     "m_Position": {
         "x": -1554.400146484375,
-        "y": 1266.39990234375
+        "y": 1266.4000244140625
     }
 }
 
@@ -3349,8 +3349,8 @@
     "m_ObjectId": "6051e3cf298143e4b12e847f46c2a059",
     "m_Title": "Get the z value from the sphere using its screen position",
     "m_Position": {
-        "x": -1086.400390625,
-        "y": 513.60009765625
+        "x": -1086.400146484375,
+        "y": 513.6001586914063
     }
 }
 
@@ -4243,8 +4243,8 @@
     "m_ObjectId": "7958defabc714ddbae9f6423332aa73e",
     "m_Title": "Pixelation Effect",
     "m_Position": {
-        "x": -3271.2001953125,
-        "y": 457.6000671386719
+        "x": -3271.200439453125,
+        "y": 457.6001281738281
     }
 }
 
@@ -4430,8 +4430,8 @@
     "m_ObjectId": "7ce2acf4aa8e4c81a1b27850d7296c45",
     "m_Title": "Combining the dither effect with the light position and the normals of the sphere",
     "m_Position": {
-        "x": -3288.800048828125,
-        "y": 1437.5999755859375
+        "x": -3288.80029296875,
+        "y": 1437.60009765625
     }
 }
 
@@ -5137,8 +5137,8 @@
     "m_ObjectId": "a0ef1d27279b4253b8cd441c19980cbd",
     "m_Title": "Mapping the color to the noise",
     "m_Position": {
-        "x": -3419.2001953125,
-        "y": 2881.599853515625
+        "x": -3419.200439453125,
+        "y": 2881.60009765625
     }
 }
 
@@ -6658,8 +6658,8 @@
     "m_ObjectId": "df11603c6cac48c5ac83aa35be9988f0",
     "m_Title": "Calculate normal using simple noise and the z value to create height",
     "m_Position": {
-        "x": -1496.800537109375,
-        "y": -72.800048828125
+        "x": -1496.80029296875,
+        "y": -72.80001831054688
     }
 }
 
