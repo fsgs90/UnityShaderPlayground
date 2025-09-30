@@ -2440,7 +2440,7 @@
     "m_Title": "Get the z value from the sphere using its screen position",
     "m_Position": {
         "x": -740.800048828125,
-        "y": 494.4000244140625
+        "y": 494.39990234375
     }
 }
 
@@ -5070,8 +5070,8 @@
     "m_ObjectId": "df11603c6cac48c5ac83aa35be9988f0",
     "m_Title": "Calculate normal using simple noise and the z value to create height",
     "m_Position": {
-        "x": -975.9999389648438,
-        "y": -43.2000732421875
+        "x": -975.9998779296875,
+        "y": -43.199951171875
     }
 }
 
