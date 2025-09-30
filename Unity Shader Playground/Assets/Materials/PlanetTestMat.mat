@@ -42,9 +42,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DitherIntesity: 4
+    - _DitherBands: 8
+    - _DitherIntesity: 1.5
     - _HeightAmplitude: 0.03
-    - _LightIntensity: 1.1
+    - _LightIntensity: 0
     - _NoiseScale: 15
     - _NumberOfColors: 0
     - _PlanetRadius: 1
@@ -52,7 +53,7 @@ Material:
     - _QueueOffset: 0
     - _RotationSpeed: 0.1
     - _SphereScale: 1
-    - _WaterLevel: 0.41
+    - _WaterLevel: 0.36
     m_Colors:
     - _MainLightDir: {r: 1.4, g: 1.28, b: 0.47, a: 0}
     - _PlanetCenter: {r: 0, g: 0, b: 0, a: 0}
