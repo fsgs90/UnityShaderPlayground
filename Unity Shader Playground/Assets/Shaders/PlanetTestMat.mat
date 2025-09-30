@@ -20,7 +20,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _SphereScale
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -42,8 +42,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _HeightAmplitude: 1
-    - _NoiseScale: 20
+    - _DitherIntesity: 1
+    - _HeightAmplitude: 0.03
+    - _LightIntensity: 1.1
+    - _NoiseScale: 15
     - _NumberOfColors: 0
     - _PlanetRadius: 1
     - _QueueControl: 0
@@ -52,6 +54,7 @@ Material:
     - _SphereScale: 1
     - _WaterLevel: 0.5
     m_Colors:
+    - _MainLightDir: {r: 1.4, g: 1.28, b: 0.47, a: 0}
     - _PlanetCenter: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
