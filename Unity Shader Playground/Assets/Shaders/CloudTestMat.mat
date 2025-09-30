@@ -42,7 +42,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CloudThreshold: 0.293
+    - _CloudThreshold: 0.35
     - _HeightAmplitude: 0.08
     - _NoiseScale: 15
     - _PlanetRadius: 1
