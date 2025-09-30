@@ -43,7 +43,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _CloudThreshold: 0.4
+    - _DitherIntensity: 4
     - _HeightAmplitude: 0
+    - _LightIntensity: 1.1
     - _NoiseScale: 20
     - _PlanetRadius: 1
     - _QueueControl: 0

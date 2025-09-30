@@ -175,9 +175,6 @@
             "m_Id": "60a7473129994d34925cc1d74ccefa3e"
         },
         {
-            "m_Id": "4a87ce9a7f7e4b76bf08067c47d33501"
-        },
-        {
             "m_Id": "60271a187f8148fabb475c7565a8ce21"
         },
         {
@@ -218,9 +215,6 @@
         },
         {
             "m_Id": "448a4b52524f4bf197e63420f7efeba7"
-        },
-        {
-            "m_Id": "8f5c54b5930349e0b8f0ec53f3a20052"
         },
         {
             "m_Id": "458417c4d81548c48ed0c5db95fdebce"
@@ -448,20 +442,6 @@
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "4a87ce9a7f7e4b76bf08067c47d33501"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "54afbeabc11d40c6aafc40c6876ffd2e"
-                },
-                "m_SlotId": 1
-            },
-            "m_InputSlot": {
-                "m_Node": {
                     "m_Id": "644243b1042249978706c146c28f55a0"
                 },
                 "m_SlotId": 0
@@ -652,20 +632,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "6da86d988f8746c1b4da3eb161d1494b"
-                },
-                "m_SlotId": 1
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "8f5c54b5930349e0b8f0ec53f3a20052"
-                },
-                "m_SlotId": 1
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "6e766bb93ef2431c93b64cdbe898a61b"
                 },
                 "m_SlotId": 2
@@ -701,20 +667,6 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "6d083e03a7a94394ac5713f2b6bdbe11"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "7c38e9c4f72b400db66df239ec4553f4"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "8f5c54b5930349e0b8f0ec53f3a20052"
                 },
                 "m_SlotId": 0
             }
@@ -815,20 +767,6 @@
                     "m_Id": "c520d38ded104a2a89137c0433258907"
                 },
                 "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "b1b797d9743f4d84a4a66c40f7729372"
-                },
-                "m_SlotId": 3
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "4a87ce9a7f7e4b76bf08067c47d33501"
-                },
-                "m_SlotId": 1
             }
         },
         {
@@ -1638,54 +1576,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
-    "m_ObjectId": "1a1c47d8a1b64d078b056be7b734a1dc",
-    "m_Id": 0,
-    "m_DisplayName": "A",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "A",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "e00": 0.0,
-        "e01": 0.0,
-        "e02": 0.0,
-        "e03": 0.0,
-        "e10": 0.0,
-        "e11": 0.0,
-        "e12": 0.0,
-        "e13": 0.0,
-        "e20": 0.0,
-        "e21": 0.0,
-        "e22": 0.0,
-        "e23": 0.0,
-        "e30": 0.0,
-        "e31": 0.0,
-        "e32": 0.0,
-        "e33": 0.0
-    },
-    "m_DefaultValue": {
-        "e00": 1.0,
-        "e01": 0.0,
-        "e02": 0.0,
-        "e03": 0.0,
-        "e10": 0.0,
-        "e11": 1.0,
-        "e12": 0.0,
-        "e13": 0.0,
-        "e20": 0.0,
-        "e21": 0.0,
-        "e22": 1.0,
-        "e23": 0.0,
-        "e30": 0.0,
-        "e31": 0.0,
-        "e32": 0.0,
-        "e33": 1.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.RedirectNodeData",
     "m_ObjectId": "1e354e278d554c8d8d8542a38ad2d61e",
     "m_Group": {
@@ -2026,30 +1916,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "2d1bf7a799844dcd8218fc4029045882",
-    "m_Id": 0,
-    "m_DisplayName": "A",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "A",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0,
-        "w": 1.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "2e43ca8fcb3641008f846607d0c1d082",
     "m_Id": 0,
@@ -2112,56 +1978,8 @@
     "m_ObjectId": "2e888bc9674d4c2583db84feb6544824",
     "m_Title": "Planet rotation: using a time node and an offset node, plugged into the noise texture",
     "m_Position": {
-        "x": -2811.200439453125,
-        "y": 4.79998779296875
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
-    "m_ObjectId": "2ebe33dbc15f42f4bc75172b32d248c8",
-    "m_Id": 2,
-    "m_DisplayName": "Out",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "e00": 0.0,
-        "e01": 0.0,
-        "e02": 0.0,
-        "e03": 0.0,
-        "e10": 0.0,
-        "e11": 0.0,
-        "e12": 0.0,
-        "e13": 0.0,
-        "e20": 0.0,
-        "e21": 0.0,
-        "e22": 0.0,
-        "e23": 0.0,
-        "e30": 0.0,
-        "e31": 0.0,
-        "e32": 0.0,
-        "e33": 0.0
-    },
-    "m_DefaultValue": {
-        "e00": 1.0,
-        "e01": 0.0,
-        "e02": 0.0,
-        "e03": 0.0,
-        "e10": 0.0,
-        "e11": 1.0,
-        "e12": 0.0,
-        "e13": 0.0,
-        "e20": 0.0,
-        "e21": 0.0,
-        "e22": 1.0,
-        "e23": 0.0,
-        "e30": 0.0,
-        "e31": 0.0,
-        "e32": 0.0,
-        "e33": 1.0
+        "x": -2811.2001953125,
+        "y": 4.8000030517578129
     }
 }
 
@@ -2841,49 +2659,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
-    "m_ObjectId": "4a87ce9a7f7e4b76bf08067c47d33501",
-    "m_Group": {
-        "m_Id": "589cb9505b594dd68f04c0b29a076632"
-    },
-    "m_Name": "Multiply",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -1528.800048828125,
-            "y": 1604.0001220703125,
-            "width": 208.0001220703125,
-            "height": 301.599853515625
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "1a1c47d8a1b64d078b056be7b734a1dc"
-        },
-        {
-            "m_Id": "ad5359b24c004552833c457d68f81173"
-        },
-        {
-            "m_Id": "2ebe33dbc15f42f4bc75172b32d248c8"
-        }
-    ],
-    "synonyms": [
-        "multiplication",
-        "times",
-        "x"
-    ],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PosterizeNode",
     "m_ObjectId": "4c26c1e00d7f4f668716c8a64f9986fb",
     "m_Group": {
@@ -3131,8 +2906,8 @@
     "m_ObjectId": "589cb9505b594dd68f04c0b29a076632",
     "m_Title": " Applying the dither as color mask and addig a fresnel",
     "m_Position": {
-        "x": -1554.400146484375,
-        "y": 1266.4000244140625
+        "x": -1203.199951171875,
+        "y": 1266.3997802734375
     }
 }
 
@@ -3349,7 +3124,7 @@
     "m_ObjectId": "6051e3cf298143e4b12e847f46c2a059",
     "m_Title": "Get the z value from the sphere using its screen position",
     "m_Position": {
-        "x": -1086.400146484375,
+        "x": -1086.4000244140625,
         "y": 513.6001586914063
     }
 }
@@ -4243,32 +4018,8 @@
     "m_ObjectId": "7958defabc714ddbae9f6423332aa73e",
     "m_Title": "Pixelation Effect",
     "m_Position": {
-        "x": -3271.200439453125,
-        "y": 457.6001281738281
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "796ba21237e34e3c9609ba1116c28e51",
-    "m_Id": 2,
-    "m_DisplayName": "Out",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
+        "x": -3271.2001953125,
+        "y": 457.60015869140627
     }
 }
 
@@ -4430,7 +4181,7 @@
     "m_ObjectId": "7ce2acf4aa8e4c81a1b27850d7296c45",
     "m_Title": "Combining the dither effect with the light position and the normals of the sphere",
     "m_Position": {
-        "x": -3288.80029296875,
+        "x": -3288.800048828125,
         "y": 1437.60009765625
     }
 }
@@ -4867,56 +4618,12 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.SubtractNode",
-    "m_ObjectId": "8f5c54b5930349e0b8f0ec53f3a20052",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Subtract",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 122.40008544921875,
-            "y": 1581.5999755859375,
-            "width": 207.99993896484376,
-            "height": 301.5999755859375
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "2d1bf7a799844dcd8218fc4029045882"
-        },
-        {
-            "m_Id": "cdf6ba23024e4668a956609677620712"
-        },
-        {
-            "m_Id": "796ba21237e34e3c9609ba1116c28e51"
-        }
-    ],
-    "synonyms": [
-        "subtraction",
-        "remove",
-        "minus",
-        "take away"
-    ],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "8f89de185d754a20ba382f24a1fec70e",
     "m_Title": "Dither Effect",
     "m_Position": {
         "x": -3386.400390625,
-        "y": 2380.0
+        "y": 2380.000244140625
     }
 }
 
@@ -5137,8 +4844,8 @@
     "m_ObjectId": "a0ef1d27279b4253b8cd441c19980cbd",
     "m_Title": "Mapping the color to the noise",
     "m_Position": {
-        "x": -3419.200439453125,
-        "y": 2881.60009765625
+        "x": -3419.2001953125,
+        "y": 2881.599853515625
     }
 }
 
@@ -5407,54 +5114,6 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
-    "m_ObjectId": "ad5359b24c004552833c457d68f81173",
-    "m_Id": 1,
-    "m_DisplayName": "B",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "B",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "e00": 2.0,
-        "e01": 2.0,
-        "e02": 2.0,
-        "e03": 2.0,
-        "e10": 2.0,
-        "e11": 2.0,
-        "e12": 2.0,
-        "e13": 2.0,
-        "e20": 2.0,
-        "e21": 2.0,
-        "e22": 2.0,
-        "e23": 2.0,
-        "e30": 2.0,
-        "e31": 2.0,
-        "e32": 2.0,
-        "e33": 2.0
-    },
-    "m_DefaultValue": {
-        "e00": 1.0,
-        "e01": 0.0,
-        "e02": 0.0,
-        "e03": 0.0,
-        "e10": 0.0,
-        "e11": 1.0,
-        "e12": 0.0,
-        "e13": 0.0,
-        "e20": 0.0,
-        "e21": 0.0,
-        "e22": 1.0,
-        "e23": 0.0,
-        "e30": 0.0,
-        "e31": 0.0,
-        "e32": 0.0,
-        "e33": 1.0
     }
 }
 
@@ -6349,30 +6008,6 @@
 }
 
 {
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "cdf6ba23024e4668a956609677620712",
-    "m_Id": 1,
-    "m_DisplayName": "B",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "B",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0,
-        "w": 1.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    }
-}
-
-{
     "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
     "m_ObjectId": "ce39fee5e3d549559213b5ef4a0d21b0",
@@ -6658,8 +6293,8 @@
     "m_ObjectId": "df11603c6cac48c5ac83aa35be9988f0",
     "m_Title": "Calculate normal using simple noise and the z value to create height",
     "m_Position": {
-        "x": -1496.80029296875,
-        "y": -72.80001831054688
+        "x": -1496.8001708984375,
+        "y": -72.79997253417969
     }
 }
 
