@@ -42,10 +42,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DitherBands: 2
-    - _DitherIntesity: 0.1
-    - _HeightAmplitude: 0.01
-    - _LightIntensity: 1
+    - _DitherBands: 4
+    - _DitherIntesity: 2
+    - _HeightAmplitude: 0
+    - _LightIntensity: 0
     - _NoiseScale: 10
     - _NumberOfColors: 0
     - _PlanetRadius: 1
